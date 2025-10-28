@@ -27,7 +27,7 @@ The simulation is highly configurable and implements advanced techniques to ensu
 First, clone the repository and set up the environment.
 
 ```bash
-git clone 
+git clone https://github.com/nathanfx330/Subpixel-Rendering-Simulator.git
 cd subpixel-simulator
 ```
 
